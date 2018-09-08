@@ -1,37 +1,6 @@
-package TestCode;
+package TestCode.DotComBust;
 
 import java.util.ArrayList;
-
-public class DotCom {
-    private ArrayList<String> locationCells;
-    private String name;
-
-    public void setLocationCells(ArrayList<String> loc) {
-        locationCells = loc;
-    }
-
-    public void setName(String n) {
-        name = n;
-    }
-
-    public String checkYourself(String userInput) {
-        String result = "miss";
-        int index = locationCells.indexOf(userInput);
-
-        if (index > 0) {
-            locationCells.remove(index);
-
-            if (locationCells.isEmpty()) {
-                result = "kill";
-                System.out.println("Ouch! You sunk " + name + " : ( ");
-            } else {
-                result = "hit";
-            }
-        }
-
-        return result;
-    }
-}
 
 public class DotComBust {
     private GameHelper helper = new GameHelper();
@@ -60,7 +29,7 @@ public class DotComBust {
     }
 
     private void startPlaying() {
-        while(!dotComArrayList.isEmpty()) {
+        while (!dotComArrayList.isEmpty()) {
             String userGuess = helper.getUserInput("Enter a guess");
             checkUserGuess(userGuess);
         }
@@ -73,7 +42,7 @@ public class DotComBust {
         String result = "miss";
 
         for (DotCom dotComToTest : dotComArrayList) {
-            result =  dotComToTest.checkUserGuess(userGuess);
+            result = dotComToTest.checkYourself(userGuess);
             if (result.equals("hit")) break;
             if (result.equals("kill")) {
                 dotComArrayList.remove(dotComToTest);
@@ -88,7 +57,7 @@ public class DotComBust {
         System.out.println("All dot coms is dead! Your stock is now worthless.");
 
         if (numOfGuesses < 18) {
-            System.out.println("It only took you " +  numOfGuesses + " guesses.");
+            System.out.println("It only took you " + numOfGuesses + " guesses.");
             System.out.println("You got out before your options sank.");
         } else {
             System.out.println("Took you long enough. " + numOfGuesses + " guesses.");
@@ -97,6 +66,8 @@ public class DotComBust {
     }
 
     public static void main(String[] args) {
-
+        DotComBust game = new DotComBust();
+        game.setUpGame();
+        game.startPlaying();
     }
 }
