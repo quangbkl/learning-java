@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27103186-577c-4a58-a4b5-4bbdedb62896" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TestCode/MonsterTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestCode/TestBoats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UET/CodingBat/TestCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestCode/MultipleInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestCode/ObjectTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestCode/SuperTestDrive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/First/TestCode/Animal/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/First/TestCode/Animal/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestCode/Animal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestCode/Animal/AnimalTestDrive.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,13 +43,13 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="2" />
-          <entry key="java" value="50" />
+          <entry key="java" value="54" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="50" />
+          <entry key="JAVA" value="54" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
@@ -59,13 +57,13 @@
         <counts>
           <entry key="dummy" value="61" />
           <entry key="gitignore" value="8" />
-          <entry key="java" value="14059" />
+          <entry key="java" value="14871" />
           <entry key="txt" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="14059" />
+          <entry key="JAVA" value="14871" />
           <entry key="PLAIN_TEXT" value="126" />
         </counts>
       </usages-collector>
@@ -73,24 +71,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TestCode/Animal/AnimalTestDrive.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-              <folding>
-                <element signature="e#100#101#0" expanded="true" />
-                <element signature="e#142#143#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/UET/CodingBat/TestCode.java">
+        <entry file="file://$PROJECT_DIR$/src/TestCode/SuperTestDrive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+            <state relative-caret-position="272">
+              <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+              <folding>
+                <element signature="e#64#65#0" expanded="true" />
+                <element signature="e#100#101#0" expanded="true" />
+                <element signature="e#135#136#0" expanded="true" />
+                <element signature="e#171#172#0" expanded="true" />
+                <element signature="e#346#347#0" expanded="true" />
+                <element signature="e#382#383#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -143,6 +136,9 @@
         <option value="$PROJECT_DIR$/src/TestCode/TestBoats.java" />
         <option value="$PROJECT_DIR$/src/TestCode/Animal/AnimalTestDrive.java" />
         <option value="$PROJECT_DIR$/src/UET/CodingBat/TestCode.java" />
+        <option value="$PROJECT_DIR$/src/TestCode/ObjectTestDrive.java" />
+        <option value="$PROJECT_DIR$/src/TestCode/MultipleInheritance.java" />
+        <option value="$PROJECT_DIR$/src/TestCode/SuperTestDrive.java" />
       </list>
     </option>
   </component>
@@ -182,7 +178,7 @@
               <item name="First" type="b2602c69:ProjectViewProjectNode" />
               <item name="First" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="UET" type="462c0819:PsiDirectoryNode" />
+              <item name="TestCode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -194,7 +190,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536476620894" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536592152918" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -212,7 +208,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AnimalTestDrive">
+  <component name="RunManager" selected="Application.SuperTestDrive">
     <configuration name="AnimalTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestCode.Animal.AnimalTestDrive" />
       <module name="First" />
@@ -226,21 +222,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DotComBust" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestCode.DotComBust.DotComBust" />
-      <module name="First" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TestCode.DotComBust.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MonsterTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestCode.MonsterTestDrive" />
+    <configuration name="MultipleInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestCode.MultipleInheritance" />
       <module name="First" />
       <extension name="coverage">
         <pattern>
@@ -252,8 +235,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Overloads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestCode.Overloads" />
+    <configuration name="ObjectTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestCode.ObjectTestDrive" />
+      <module name="First" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuperTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestCode.SuperTestDrive" />
       <module name="First" />
       <extension name="coverage">
         <pattern>
@@ -279,19 +275,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DotComBust" />
-      <item itemvalue="Application.Overloads" />
-      <item itemvalue="Application.MonsterTestDrive" />
       <item itemvalue="Application.TestBoats" />
       <item itemvalue="Application.AnimalTestDrive" />
+      <item itemvalue="Application.ObjectTestDrive" />
+      <item itemvalue="Application.MultipleInheritance" />
+      <item itemvalue="Application.SuperTestDrive" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SuperTestDrive" />
+        <item itemvalue="Application.MultipleInheritance" />
+        <item itemvalue="Application.ObjectTestDrive" />
         <item itemvalue="Application.AnimalTestDrive" />
         <item itemvalue="Application.TestBoats" />
-        <item itemvalue="Application.MonsterTestDrive" />
-        <item itemvalue="Application.Overloads" />
-        <item itemvalue="Application.DotComBust" />
       </list>
     </recent_temporary>
   </component>
@@ -322,12 +318,12 @@
       <workItem from="1536144327835" duration="12506000" />
       <workItem from="1536372649881" duration="9605000" />
       <workItem from="1536459606933" duration="5225000" />
-      <workItem from="1536583723022" duration="933000" />
+      <workItem from="1536583723022" duration="6454000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69789000" />
+    <option name="totallyTimeSpent" value="75310000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -342,7 +338,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3214826" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3214826" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -351,7 +347,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.3295082" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -360,7 +356,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3295082" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.3295082" />
-      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -493,6 +489,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="633">
           <caret line="71" column="9" selection-start-line="71" selection-start-column="9" selection-end-line="71" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -561,10 +560,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/UET/CodingBat/TestCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestCode/ObjectTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+          <folding>
+            <element signature="e#61#62#0" expanded="true" />
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/TestCode/Animal/AnimalTestDrive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        <state>
           <folding>
             <element signature="e#100#101#0" expanded="true" />
             <element signature="e#142#143#0" expanded="true" />
@@ -572,10 +592,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UET/CodingBat/TestCode.java">
+    <entry file="file://$PROJECT_DIR$/src/TestCode/MultipleInheritance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        <state relative-caret-position="21">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <element signature="e#58#59#0" expanded="true" />
+            <element signature="e#111#112#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestCode/SuperTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+          <folding>
+            <element signature="e#64#65#0" expanded="true" />
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
