@@ -1,7 +1,8 @@
-package TestCode.Animal;
+package UET.CodingBat;
 
-public class Animal {
+public class TestCode {
     public static void main(String[] args) {
+        String str = "Quang";
         System.out.println();
     }
 }
