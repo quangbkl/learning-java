@@ -2,7 +2,7 @@ package UET.Algorithms.Stack;
 
 public class StackTestDrive {
     public static void main(String[] args) {
-        ArrayStack as = new ArrayStack();
+        ArrayStack as = new ArrayStack(1);
         try {
             as.push("dslkfj");
             as.push(983475);
