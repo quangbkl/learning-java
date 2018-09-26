@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="27103186-577c-4a58-a4b5-4bbdedb62896" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UET/Algorithms/Stack/ArrayStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UET/Algorithms/Stack/ArrayStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UET/Algorithms/Stack/StackTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UET/Algorithms/Stack/StackTestDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UET/Algorithms/StraightLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UET/Algorithms/StraightLine.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +19,7 @@
     <session id="1325277866">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="24" />
+          <entry key="project.closed" value="25" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.106" value="1" />
           <entry key="project.open.time.2" value="2" />
@@ -38,22 +37,22 @@
           <entry key="project.open.time.56" value="1" />
           <entry key="project.open.time.58" value="2" />
           <entry key="project.open.time.67" value="1" />
-          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.70" value="2" />
           <entry key="project.open.time.77" value="1" />
-          <entry key="project.opened" value="25" />
+          <entry key="project.opened" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="3" />
-          <entry key="java" value="70" />
+          <entry key="java" value="77" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="70" />
+          <entry key="JAVA" value="77" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
@@ -61,13 +60,13 @@
         <counts>
           <entry key="dummy" value="61" />
           <entry key="gitignore" value="8" />
-          <entry key="java" value="17164" />
+          <entry key="java" value="18196" />
           <entry key="txt" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="17164" />
+          <entry key="JAVA" value="18196" />
           <entry key="PLAIN_TEXT" value="126" />
         </counts>
       </usages-collector>
@@ -76,30 +75,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/UET/Algorithms/MinMax.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="65" column="56" selection-start-line="65" selection-start-column="56" selection-end-line="65" selection-end-column="56" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/UET/Algorithms/Stack/ArrayStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-64">
-              <caret line="39" column="36" lean-forward="true" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
-              <folding>
-                <element signature="e#211#212#0" expanded="true" />
-                <element signature="e#230#231#0" expanded="true" />
-                <element signature="e#110#111#0" expanded="true" />
-                <element signature="e#134#135#0" expanded="true" />
-                <element signature="e#180#181#0" expanded="true" />
-                <element signature="e#208#209#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="153">
+              <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -108,16 +87,25 @@
         <entry file="file://$PROJECT_DIR$/src/UET/Algorithms/Stack/Stack.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/UET/Algorithms/Stack/StackTestDrive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/UET/Algorithms/Stack/StackTestDrive.java">
+        <entry file="file://$PROJECT_DIR$/src/UET/Algorithms/StraightLine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="561">
+              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
             </state>
           </provider>
         </entry>
@@ -173,7 +161,6 @@
         <option value="$PROJECT_DIR$/src/TestCode/ObjectTestDrive.java" />
         <option value="$PROJECT_DIR$/src/TestCode/MultipleInheritance.java" />
         <option value="$PROJECT_DIR$/src/TestCode/SuperTestDrive.java" />
-        <option value="$PROJECT_DIR$/src/UET/Algorithms/StraightLine.java" />
         <option value="$PROJECT_DIR$/src/CoursesUET/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/UET/Algorithms/MinMax.java" />
         <option value="$PROJECT_DIR$/src/UET/Algorithms/Stack/StackFullException.java" />
@@ -181,6 +168,7 @@
         <option value="$PROJECT_DIR$/src/UET/Algorithms/Stack/Stack.java" />
         <option value="$PROJECT_DIR$/src/UET/Algorithms/Stack/ArrayStack.java" />
         <option value="$PROJECT_DIR$/src/UET/Algorithms/Stack/StackTestDrive.java" />
+        <option value="$PROJECT_DIR$/src/UET/Algorithms/StraightLine.java" />
       </list>
     </option>
   </component>
@@ -203,7 +191,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -237,17 +224,26 @@
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="Stack" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="First" type="b2602c69:ProjectViewProjectNode" />
+              <item name="First" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="UET" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="StraightLine.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537886465267" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537951700545" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -271,7 +267,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StackTestDrive">
+  <component name="RunManager" selected="Application.StraightLine">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CoursesUET.BubbleSort" />
       <module name="First" />
@@ -298,12 +294,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultipleInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestCode.MultipleInheritance" />
+    <configuration name="StackTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UET.Algorithms.Stack.StackTestDrive" />
       <module name="First" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TestCode.*" />
+          <option name="PATTERN" value="UET.Algorithms.Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -311,12 +307,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UET.Algorithms.Stack.StackTestDrive" />
+    <configuration name="StraightLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UET.Algorithms.StraightLine" />
       <module name="First" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="UET.Algorithms.Stack.*" />
+          <option name="PATTERN" value="UET.Algorithms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -338,19 +334,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MultipleInheritance" />
       <item itemvalue="Application.SuperTestDrive" />
       <item itemvalue="Application.BubbleSort" />
       <item itemvalue="Application.MinMax" />
       <item itemvalue="Application.StackTestDrive" />
+      <item itemvalue="Application.StraightLine" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StraightLine" />
         <item itemvalue="Application.StackTestDrive" />
         <item itemvalue="Application.MinMax" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.SuperTestDrive" />
-        <item itemvalue="Application.MultipleInheritance" />
       </list>
     </recent_temporary>
   </component>
@@ -388,12 +384,13 @@
       <workItem from="1536749811668" duration="36000" />
       <workItem from="1537804218736" duration="1275000" />
       <workItem from="1537828797406" duration="17000" />
-      <workItem from="1537882732438" duration="3701000" />
+      <workItem from="1537882732438" duration="3791000" />
+      <workItem from="1537948812725" duration="2793000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83586000" />
+    <option name="totallyTimeSpent" value="86469000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -408,7 +405,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35854766" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36384267" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -417,7 +414,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.3295082" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -621,16 +618,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UET/Algorithms/StraightLine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UET/Algorithms/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/CoursesUET/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -649,16 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UET/Algorithms/MinMax.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="65" column="56" selection-start-line="65" selection-start-column="56" selection-end-line="65" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -684,32 +661,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/UET/Algorithms/MinMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="65" column="56" selection-start-line="65" selection-start-column="56" selection-end-line="65" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UET/Algorithms/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/UET/Algorithms/Stack/ArrayStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-64">
-          <caret line="39" column="36" lean-forward="true" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
-          <folding>
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="153">
+          <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/UET/Algorithms/Stack/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/UET/Algorithms/Stack/StackTestDrive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UET/Algorithms/StraightLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
         </state>
       </provider>
     </entry>
